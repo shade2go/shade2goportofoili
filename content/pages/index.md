@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Im A FUCKING GUY
+    title: MY name is shade2go you can call me shade.
     subtitle: hello.
     styles:
       self:
