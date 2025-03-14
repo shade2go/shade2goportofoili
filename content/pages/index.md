@@ -13,8 +13,10 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Im A FUCKING GUY
-    subtitle: hello.
+    title: MY name is shade2go you can call me shade.
+    subtitle: >-
+      i currently know html and css. striving to learn javascript, python json
+      java c+ etc etc
     styles:
       self:
         height: auto
