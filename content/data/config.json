@@ -34,7 +34,7 @@
             "type": "ContactBlock",
             "title": "Contact details",
             "phoneNumber": "my details:",
-            "phoneAltText": "",
+            "phoneAltText": "details",
             "email": "arijitdutta4006@gmail.com",
             "emailAltText": "Email",
             "address": "thanks for checking out",
