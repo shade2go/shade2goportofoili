@@ -33,7 +33,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "",
+            "phoneNumber": "my details:",
             "phoneAltText": "",
             "email": "arijitdutta4006@gmail.com",
             "emailAltText": "Email",
