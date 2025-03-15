@@ -29,17 +29,6 @@
                     "pl-4"
                 ]
             }
-        },
-        "contacts": {
-            "type": "ContactBlock",
-            "title": "Contact details",
-            "phoneNumber": "my details:",
-            "phoneAltText": "details",
-            "email": "arijitdutta4006@gmail.com",
-            "emailAltText": "Email",
-            "address": "thanks for checking out",
-            "addressAltText": "idk",
-            "elementId": ""
         }
     }
 }
